@@ -35,19 +35,20 @@ If you have any questions about the installation, please contact mmr9@rice.edu.
 ### 1. Software that will be required for the tutorial:
 
 #### 1.1 UCSF Chimera
-If you have Microsoft Windows, click [here](https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=win64/chimera-1.14-win64.exe) to download and here(https://www.cgl.ucsf.edu/chimera/data/downloads/1.14/win64.html) to follow the instructions on how to install
+* For Microsoft Windows, click [here](https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=win64/chimera-1.14-win64.exe) to download and here(https://www.cgl.ucsf.edu/chimera/data/downloads/1.14/win64.html) to follow the instructions on how to install.
 
-If you have Mac OS X, click [here](https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=mac64/chimera-1.14-mac64.dmg) to download and [here](https://www.cgl.ucsf.edu/chimera/data/downloads/1.14/mac64.html) to follow the instructions on how to install
+* For Mac OS X, click [here](https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=mac64/chimera-1.14-mac64.dmg) to download and [here](https://www.cgl.ucsf.edu/chimera/data/downloads/1.14/mac64.html) to follow the instructions on how to install.
 
-If you have Linux, click [here](https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=linux_x86_64/chimera-1.14-linux_x86_64.bin) to download and [here](https://www.cgl.ucsf.edu/chimera/data/downloads/1.14/linux_x86_64.html) to follow the instructions on how to install
+* For Linux, click [here](https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=linux_x86_64/chimera-1.14-linux_x86_64.bin) to download and [here](https://www.cgl.ucsf.edu/chimera/data/downloads/1.14/linux_x86_64.html) to follow the instructions on how to install.
 
 ### 2. Additional software that will be discussed, but not requiered for the tutorial:
 
 #### 2.1. Docker
 To run HLA-Arena you will need to first install Docker, unless you already have it. For that, follow the instructions in one of these links:
 
-        Docker for Mac or Windows: https://www.docker.com/products/docker-desktop
-        Docker for Linux: https://docs.docker.com/install
+* Docker for Mac or Windows: [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
+
+* Docker for Linux: [https://docs.docker.com/install](https://docs.docker.com/install)
 
 #### 2.2. HLA-Arena
 Next, in a command prompt, pull the HLA-Arena image from Docker Hub by typing:
