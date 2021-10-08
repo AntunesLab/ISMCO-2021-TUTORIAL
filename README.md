@@ -112,9 +112,16 @@ Once you have the key, you can permanently update the HLA-Arena container with y
 
 For more information on HLA-Arena, you can check the [HLA-Arena github repository](https://github.com/KavrakiLab/hla-arena).
 
-We also have a two-part tutorial available on YouTube:
+### 4. Online video tutorials:
 
+#### 4.1. Two-part video tutorial on HLA-Arena:
 [HLA-Arena video tutorial (Part 1)](https://youtu.be/gIFHmejEulo)
 
 [HLA-Arena video tutorial (Part 2)](https://youtu.be/fPhnmYez4QA)
+
+#### 4.2. Two-part video tutorial on DINC:
+[DINC video tutorial (Part 1)](https://vimeo.com/204481617)
+
+[DINC video tutorial (Part 2)](https://vimeo.com/204481626)
+
 
