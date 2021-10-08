@@ -28,7 +28,7 @@ Welcome to the third edition of the [ISMCO](http://ismco.net/) tutorial on [Curr
 
 ## Software requirements
 
- You will need to install the following programs **PRIOR TO THE BEGINNING OF THE TUTORIAL**! This is important since the download of some of the packages could take some time depending on your internet connection. 
+ You will need to install the following programs **PRIOR TO THE BEGINNING OF THE TUTORIAL**! This is important since the download could take some time depending on your internet connection. 
 
 If you have any questions about the installation, please contact mmr9@rice.edu.
 
@@ -43,12 +43,13 @@ If you have Linux, click [here](https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/
 
 ### 2. Additional software that will be discussed, but not requiered for the tutorial:
 
-#### 2.1. HLA-Arena
-First, you will need to install Docker, unless you already have it. For that, follow the instructions in one of these links:
+#### 2.1. Docker
+To run HLA-Arena you will need to first install Docker, unless you already have it. For that, follow the instructions in one of these links:
 
         Docker for Mac or Windows: https://www.docker.com/products/docker-desktop
         Docker for Linux: https://docs.docker.com/install
 
+#### 2.2. HLA-Arena
 Next, in a command prompt, pull the HLA-Arena image from Docker Hub by typing:
 
         docker pull kavrakilab/hla-arena
@@ -56,9 +57,9 @@ Next, in a command prompt, pull the HLA-Arena image from Docker Hub by typing:
 This step can take hours and it will require about 20 Gb of disk space.
 
 
-### 2.2 Checking your installation:
+### 2.3 Checking your installation:
 
-#### 2.2.1. Test your Docker installation:
+#### 2.3.1. Test your Docker installation:
 In the command line (or prompt) run the following command:
 
           docker run hello-world
@@ -87,7 +88,7 @@ You should see the following output:
          https://docs.docker.com/get-started/
 
 
-#### 2.2.2. Check if you have downloaded the HLA-arena image:
+#### 2.3.2. Check if you have downloaded the HLA-arena image:
 In the command line (or prompt) run the following command:
 
         docker images
@@ -97,7 +98,7 @@ You should see an output like this:
         REPOSITORY             TAG                      IMAGE ID            CREATED             SIZE
         kavrakilab/hla-arena   latest                   e6cefe68c72a        2 months ago        20.6GB
 
-#### 2.2.3. Modeller license key
+#### 2.3.3. Modeller license key
 Several of HLA-Arena workflows rely on Modeller to perform the homology modeling of a given HLA receptor. This modeling task is integrated into a specific HLA-Arena function (more details [here](https://kavrakilab.github.io/hla-arena/DOCUMENTATION.html)). However, using Modeller requires you to register and obtain your own license key, if you do not already have one. First, follow instructions on the [Modeller registration page](https://salilab.org/modeller/registration.html).
 
 Once you have the key, you can permanently update the HLA-Arena container with your key. For that, you should execute the commands below, replacing MODELLER_KEY with the correct key.
