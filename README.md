@@ -60,7 +60,7 @@ This step can take hours and it will require about 20 Gb of disk space.
 
 ### 3 Checking your installation:
 
-#### 3.1. Test your Docker installation:
+#### 3.1. Test your Docker installation
 In the command line (or prompt) run the following command:
 
           docker run hello-world
@@ -89,7 +89,7 @@ You should see the following output:
          https://docs.docker.com/get-started/
 
 
-#### 3.2. Check if you have downloaded the HLA-arena image:
+#### 3.2. Check if you have downloaded the HLA-arena image
 In the command line (or prompt) run the following command:
 
         docker images
@@ -114,12 +114,12 @@ For more information on HLA-Arena, you can check the [HLA-Arena github repositor
 
 ### 4. Online video tutorials:
 
-#### 4.1. Two-part video tutorial on HLA-Arena:
+#### 4.1. Two-part video tutorial on HLA-Arena
 [HLA-Arena video tutorial (Part 1)](https://youtu.be/gIFHmejEulo)
 
 [HLA-Arena video tutorial (Part 2)](https://youtu.be/fPhnmYez4QA)
 
-#### 4.2. Two-part video tutorial on DINC:
+#### 4.2. Two-part video tutorial on DINC
 [DINC video tutorial (Part 1)](https://vimeo.com/204481617)
 
 [DINC video tutorial (Part 2)](https://vimeo.com/204481626)
