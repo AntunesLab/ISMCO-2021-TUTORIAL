@@ -12,11 +12,11 @@ Welcome to the third edition of the [ISMCO](http://ismco.net/) tutorial on [Curr
 | **Break**	| **15** | **4:05** | 6:05 |
 | Intro to Google Colab | 5 | **4:20** | 6:20 |
 | Downloading structures from [PDB](https://www.rcsb.org/)	| 5 | - | - |
-| Visualizing pHLA structures w Chimera (interactive)	| 35 | - | - |
+| Visualizing pHLA structures w Chimera | 35 | - | - |
 | **Break**	| **15** | **5:05** | 7:05 |
 | Intro to pHLA modeling |	10 | **5:20** | 7:20 |
-| DINC ([webserver](http://dinc.kavrakilab.org/) live demo) | 10 | - | - |
-| DockTope ([webserver](http://tools.iedb.org/docktope/) live demo) | 5 | - | - |
+| DINC ([webserver](http://dinc.kavrakilab.org/)) | 10 | - | - |
+| DockTope ([webserver](http://tools.iedb.org/docktope/)) | 5 | - | - |
 | **Break**	| **15** | **5:45** | 7:45 |
 | Running Ape-Gen w Google Colab	| 10 | **6:00** |  8:00 |
 | Intro to HLA-Arena | 15 | - | - |
