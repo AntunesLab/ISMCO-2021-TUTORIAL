@@ -57,9 +57,9 @@ Next, in a command prompt, pull the HLA-Arena image from Docker Hub by typing:
 This step can take hours and it will require about 20 Gb of disk space.
 
 
-### 2.3 Checking your installation:
+### 3 Checking your installation:
 
-#### 2.3.1. Test your Docker installation:
+#### 3.1. Test your Docker installation:
 In the command line (or prompt) run the following command:
 
           docker run hello-world
@@ -88,7 +88,7 @@ You should see the following output:
          https://docs.docker.com/get-started/
 
 
-#### 2.3.2. Check if you have downloaded the HLA-arena image:
+#### 3.2. Check if you have downloaded the HLA-arena image:
 In the command line (or prompt) run the following command:
 
         docker images
@@ -98,7 +98,7 @@ You should see an output like this:
         REPOSITORY             TAG                      IMAGE ID            CREATED             SIZE
         kavrakilab/hla-arena   latest                   e6cefe68c72a        2 months ago        20.6GB
 
-#### 2.3.3. Modeller license key
+#### 3.3. Modeller license key
 Several of HLA-Arena workflows rely on Modeller to perform the homology modeling of a given HLA receptor. This modeling task is integrated into a specific HLA-Arena function (more details [here](https://kavrakilab.github.io/hla-arena/DOCUMENTATION.html)). However, using Modeller requires you to register and obtain your own license key, if you do not already have one. First, follow instructions on the [Modeller registration page](https://salilab.org/modeller/registration.html).
 
 Once you have the key, you can permanently update the HLA-Arena container with your key. For that, you should execute the commands below, replacing MODELLER_KEY with the correct key.
