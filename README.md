@@ -25,6 +25,20 @@ Welcome to the third edition of the [ISMCO](http://ismco.net/) tutorial on [Curr
 | HLA-Arena workflow 3 demo (mhcflurry + APE-Gen) |	5 | - | - |
 | Conclusion | 5 | **6:45** | 8:45 |
 
+## Tutorial materials
+
+### Parts 1 and 2: IEDB 
+* [T01](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T01_IEDB_Tutorial_part1.ipynb)
+* [T02](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T02_IEDB_Tutorial_part2.ipynb)
+
+### Part 3: PDB
+* [T03](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T03_PDB_Tutorial.ipynb)
+
+### Part 4: UCSF Chimera
+* [T04](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T04_UCSF_Chimera_tutorial.ipynb)
+
+### Part 5:
+* [T05](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T05_APE-Gen_tutorial.ipynb)
 
 ## Software requirements
 
