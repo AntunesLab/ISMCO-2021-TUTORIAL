@@ -2,7 +2,7 @@
 
 ### Colab is a free notebook environment that runs entirely in the cloud.  
 
-![](./figures/colab_logo.jpeg)
+![](./figs/colab_logo.jpeg)
 
 ## Why should I use it?
 
