@@ -41,6 +41,10 @@ If you have any questions about the installation, please contact mmr9@rice.edu.
 
 * For Linux, click [here](https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=linux_x86_64/chimera-1.14-linux_x86_64.bin) to download and [here](https://www.cgl.ucsf.edu/chimera/data/downloads/1.14/linux_x86_64.html) to follow the instructions on how to install.
 
+#### 1.2 Google Colab
+
+* Find a intro do Google Colab [here](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/intro_google_colab.md).
+
 ### 2. Additional software that will be discussed, but not requiered for the tutorial:
 
 #### 2.1. Docker
