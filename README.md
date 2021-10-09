@@ -34,14 +34,14 @@ If you have any questions about the installation, please contact mmr9@rice.edu.
 
 ### 1. Software that will be required for the tutorial:
 
-#### 1.1 UCSF Chimera
+#### 1.1. UCSF Chimera
 * For Microsoft Windows, click [here](https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=win64/chimera-1.14-win64.exe) to download and here(https://www.cgl.ucsf.edu/chimera/data/downloads/1.14/win64.html) to follow the instructions on how to install.
 
 * For Mac OS X, click [here](https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=mac64/chimera-1.14-mac64.dmg) to download and [here](https://www.cgl.ucsf.edu/chimera/data/downloads/1.14/mac64.html) to follow the instructions on how to install.
 
 * For Linux, click [here](https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=linux_x86_64/chimera-1.14-linux_x86_64.bin) to download and [here](https://www.cgl.ucsf.edu/chimera/data/downloads/1.14/linux_x86_64.html) to follow the instructions on how to install.
 
-#### 1.2 Google Colab
+#### 1.2. Google Colab
 
 * Find a intro do Google Colab [here](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/intro_google_colab.md).
 
@@ -62,7 +62,7 @@ Next, in a command prompt, pull the HLA-Arena image from Docker Hub by typing:
 This step can take hours and it will require about 20 Gb of disk space.
 
 
-### 3 Checking your installation:
+### 3. Checking your installation:
 
 #### 3.1. Test your Docker installation
 In the command line (or prompt) run the following command:
