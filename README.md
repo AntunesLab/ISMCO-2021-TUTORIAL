@@ -27,18 +27,15 @@ Welcome to the third edition of the [ISMCO](http://ismco.net/) tutorial on [Curr
 
 ## Tutorial materials
 
-### Parts 1 and 2: IEDB 
-* [T01](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T01_IEDB_Tutorial_part1.ipynb)
-* [T02](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T02_IEDB_Tutorial_part2.ipynb)
+* IEDB Part 1: [T01](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T01_IEDB_Tutorial_part1.ipynb)
 
-### Part 3: PDB
-* [T03](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T03_PDB_Tutorial.ipynb)
+* IEDB Part 2: [T02](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T02_IEDB_Tutorial_part2.ipynb)
 
-### Part 4: UCSF Chimera
-* [T04](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T04_UCSF_Chimera_tutorial.ipynb)
+* PDB: [T03](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T03_PDB_Tutorial.ipynb)
 
-### Part 5:
-* [T05](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T05_APE-Gen_tutorial.ipynb)
+* UCSF Chimera: [T04](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T04_UCSF_Chimera_tutorial.ipynb)
+
+* APE-Gen with Google Colab: [T05](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T05_APE-Gen_tutorial.ipynb)
 
 ## Software requirements
 
