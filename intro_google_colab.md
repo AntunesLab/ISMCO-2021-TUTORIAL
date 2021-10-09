@@ -16,7 +16,7 @@ To assess Google Colab, will necessary a **Gmail** account. Next, we can search 
 
 1. Login on Google Colab
 
-![](./figures/google_colab_step_1.png)
+![](./figs/google_colab_step_1.png)
 
 **Note:** You should have at least 1 GB of free storage on your Google Drive. Nowadays, the standard Google accounts start with 15 GB. 
 
@@ -24,7 +24,7 @@ To assess Google Colab, will necessary a **Gmail** account. Next, we can search 
 
 To connect with the ISMCO repository, you will need to copy and paste the repository address: https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T05_APE-Gen_tutorial.ipynb. Next, hit the **search** button. 
 
-![](./figures/google_colab_step_2.png)
+![](./figs/google_colab_step_2.png)
 
 3. Copying APE-Gen_minimal_example to your own Google Drive
 
@@ -32,7 +32,7 @@ Congrats! If you can see the screenshot below, it means that you made it through
 
 Hold on! To avoid any potential conflicts among users, each student should have an individual notebook. To do so, we can follow the first lines on the "APE-Gen_minimal_example" file. In short, that will create a private copy in your Google Drive.
 
-![](./figures/google_colab_step_3.png)
+![](./figs/google_colab_step_3.png)
 
 > Wait! Initial step:
 > 
@@ -40,4 +40,3 @@ Hold on! To avoid any potential conflicts among users, each student should have 
 > 2. Edit > Notebook settings > Hardware Accelerator > GPU 
 
 # That's all folks!
-
