@@ -32,7 +32,7 @@ https://riceuniversity.zoom.us/j/96681193182?pwd=MVo3bkt0eW9Vb3NGMm1Ydmt1R1RTUT0
 
 * IEDB Part 1: [T01](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T01_IEDB_Tutorial_part1.ipynb), [IEDB](https://www.iedb.org/) 
 
-* IEDB Part 2: [T02](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T02_IEDB_Tutorial_part2.ipynb), [IEDB](https://www.iedb.org/) 
+* IEDB Part 2: [T02](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T02_IEDB_Tutorial_part2.ipynb), [IEDB](https://www.iedb.org/), [Uniprot](https://www.uniprot.org/)
 
 * PDB: [T03](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T03_PDB_Tutorial.ipynb), [PDB](https://www.rcsb.org/)	
 
