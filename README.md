@@ -10,32 +10,35 @@ Welcome to the third edition of the [ISMCO](http://ismco.net/) tutorial on [Curr
 | Cellular immunity for cancer immunotherapy | 15 | - | - |
 | Exploring [IEDB](https://www.iedb.org/) resources | 45 | - | - |
 | **Break**	| **15** | **4:05** | 6:05 |
-| Intro to Google Colab | 5 | **4:20** | 6:20 |
-| Downloading structures from [PDB](https://www.rcsb.org/)	| 5 | - | - |
+| Downloading structures from [PDB](https://www.rcsb.org/)	| 5 | **4:20** | 6:20 |
 | Visualizing pHLA structures w Chimera | 35 | - | - |
-| **Break**	| **15** | **5:05** | 7:05 |
-| Intro to pHLA modeling |	10 | **5:20** | 7:20 |
+| **Break**	| **15** | **5:00** | 7:00 |
+| Intro to pHLA modeling |	10 | **5:15** | 7:15 |
 | DINC ([webserver](http://dinc.kavrakilab.org/)) | 10 | - | - |
 | DockTope ([webserver](http://tools.iedb.org/docktope/)) | 5 | - | - |
-| **Break**	| **15** | **5:45** | 7:45 |
-| Running Ape-Gen w Google Colab	| 10 | **6:00** |  8:00 |
+| **Break**	| **15** | **5:40** | 7:40 |
+| Intro to Google Colab | 5 | **5:55** | 7:55 |
+| Running Ape-Gen w Google Colab	| 10 | - | - |
 | Intro to HLA-Arena | 15 | - | - |
 | HLA-Arena workflow 0 demo (ApeGen) | 10 | - | - |
 | HLA-Arena workflow 1 demo (DINC) | 5 | - | - |
 | HLA-Arena workflow 3 demo (mhcflurry + APE-Gen) |	5 | - | - |
 | Conclusion | 5 | **6:45** | 8:45 |
 
+## Zoom link for tutorial
+https://riceuniversity.zoom.us/j/96681193182?pwd=MVo3bkt0eW9Vb3NGMm1Ydmt1R1RTUT09
+
 ## Tutorial materials
 
-* IEDB Part 1: [T01](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T01_IEDB_Tutorial_part1.ipynb)
+* IEDB Part 1: [T01](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T01_IEDB_Tutorial_part1.ipynb), [IEDB](https://www.iedb.org/) 
 
-* IEDB Part 2: [T02](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T02_IEDB_Tutorial_part2.ipynb)
+* IEDB Part 2: [T02](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T02_IEDB_Tutorial_part2.ipynb), [IEDB](https://www.iedb.org/) 
 
-* PDB: [T03](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T03_PDB_Tutorial.ipynb)
+* PDB: [T03](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T03_PDB_Tutorial.ipynb), [PDB](https://www.rcsb.org/)	
 
-* UCSF Chimera: [T04](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T04_UCSF_Chimera_tutorial.ipynb)
+* UCSF Chimera: [T04](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T04_UCSF_Chimera_tutorial.ipynb), requires downloading UCSF Chimera 
 
-* APE-Gen with Google Colab: [T05](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T05_APE-Gen_tutorial.ipynb)
+* APE-Gen with Google Colab: [T05](https://github.com/AntunesLab/ISMCO-2021-TUTORIAL/blob/main/T05_APE-Gen_tutorial.ipynb), requires downloading the notebook and opening it on Google Colab
 
 ## Software requirements
 
